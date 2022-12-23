@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    text-align: center;
+    background-color: #f2f7a1;
+    padding: 19px;
+}
+nav a{
+    font-size: 25px;
+    text-decoration: none;
+    color: #8884c6;
+    margin: 14px 45px 16px 50px;
+    transition: 0.3s;
+}
+nav a:hover{
+    font-size: 24px;
+    color: #000;
+    background-color: #e0c097;
+    padding: 15px;
+    border-radius: 12px;
+}
